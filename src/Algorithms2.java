@@ -1,9 +1,4 @@
-/**
- * Developed by András Ács (acsandras@gmail.com)
- * Zealand / www.zealand.dk
- * Licensed under the MIT License
- * 27/10/2020
- */
+import java.util.Random;
 
 public class Algorithms2 {
 
